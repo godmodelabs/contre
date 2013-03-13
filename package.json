@@ -1,6 +1,6 @@
 {
   "name": "contre",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Continuously release git repos into github-style directories",
   "main": "index.js",
   "directories": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliangruber/contre"
+    "url": "https://github.com/godmodelabs/contre"
   },
   "keywords": [
     "git",
